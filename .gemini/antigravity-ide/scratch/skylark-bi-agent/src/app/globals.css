@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-background: #09090b;
-  --color-foreground: #fafafa;
-  --color-primary: #3b82f6;
-  --color-primary-foreground: #ffffff;
-  --color-muted: #27272a;
-  --color-muted-foreground: #a1a1aa;
-  --color-border: #27272a;
+  --color-background: #060D0A;
+  --color-foreground: #F8FDFC;
+  --color-primary: #3BD0C4;
+  --color-primary-foreground: #042521;
+  --color-muted: #13241D;
+  --color-muted-foreground: #9CFCF8;
+  --color-border: #13241D;
 }
 
 @layer base {
